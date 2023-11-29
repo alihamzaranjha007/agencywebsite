@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/agencywebsite/static/css/main.7b995686.css",
+    "main.js": "/agencywebsite/static/js/main.9d4db5d6.js",
+    "static/media/laptop.jpg": "/agencywebsite/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/agencywebsite/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/agencywebsite/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/agencywebsite/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/agencywebsite/index.html",
+    "main.7b995686.css.map": "/agencywebsite/static/css/main.7b995686.css.map",
+    "main.9d4db5d6.js.map": "/agencywebsite/static/js/main.9d4db5d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b995686.css",
+    "static/js/main.9d4db5d6.js"
+  ]
+}
