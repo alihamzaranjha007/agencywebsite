@@ -5,6 +5,7 @@ import Analytics from "./components/Analytics";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
 import Newsletter from "./components/Newsletter";
+
 function App() {
   return (
     <div>
