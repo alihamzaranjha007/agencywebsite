@@ -4,7 +4,7 @@ import ReactTyped from 'react-typed'
 const Hero = () => {
     return (
         <div className='text-white' id='home'>
-            <div className="mx-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center mt-auto">
+            <div className="mx-w-[800px] w-full h-screen mx-auto text-center flex flex-col justify-center mt-auto">
                 <p className='text-[#00df9a] font-bold p-2'>GROWING WEB DEVELOPER</p>
                 <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-4'>GROW WITH WEBSITE</h1>
                 <div className='flex justify-center items-center'>
